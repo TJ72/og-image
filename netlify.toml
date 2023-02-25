@@ -1,3 +1,1 @@
-[functions]
-  directory = "api"
-  external_node_modules = ["chrome-aws-lambda"]
+[functions.generator]
